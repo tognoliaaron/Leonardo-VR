@@ -1,15 +1,11 @@
-## Italiano
-# Versione 2
-In questa versione è presente un menù in cui si può scegliere il percorso da seguire:
-- Percorso fissato
-- Percorso libero tra dei monumenti di Firenze
-- Percorso libero in una casa
-
-Nei percorsi liberi è possibile utilizzare i controller per spostarsi nella mappa,
-decidere la velocità con cui volare e tornare al menu principale.
+## English
+# Versione 3
+In questa versione è possibile fare tutto ciò che si poteva fare nella [versione precedente](https://github.com/tognoliaaron/Leonardo-VR/releases/tag/V2.0).
+Inoltre è presente una mappa del centro storico di firenze completamente visitabile.
+Questa mappa è stata ricavata dai dati forniti dal sito [Open Street Map]()
 
 ## English
-# Version 2
+# Version 3
 In this version there's a menu where you can choose witch route you want to follow:
 - Fixed route
 - Free route between some monumets of Florence
