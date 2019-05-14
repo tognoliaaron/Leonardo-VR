@@ -1,0 +1,284 @@
+fileFormatVersion: 2
+guid: 39cd7d98c227b944fa2b625a21a2dfcc
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f00000040000000410000004200000043000000
+  assetHash:
+    serializedVersion: 2
+    Hash: a9e3597d12b3380f5a36f2f6fbadcec8
+  longitude: 11.24766998512763
+  latitude: 43.74933903169238
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -76.20136, y: 31.122581, z: 171.35646}
+      lookAt: {x: 233.26524, y: -62.50979, z: -528.557}
+      up: {x: 0.049110718, y: 0.9925982, z: -0.11107258}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Google Earth Terrain
+    100002: //RootNode
+    100004: Statua1
+    100006: Statua2
+    100008: Tree_2D_Semirealistic_Pine3
+    100010: Tree_2D_Semirealistic_Pine3 1
+    100012: Tree_2D_Semirealistic_Pine3 10
+    100014: Tree_2D_Semirealistic_Pine3 11
+    100016: Tree_2D_Semirealistic_Pine3 12
+    100018: Tree_2D_Semirealistic_Pine3 13
+    100020: Tree_2D_Semirealistic_Pine3 14
+    100022: Tree_2D_Semirealistic_Pine3 15
+    100024: Tree_2D_Semirealistic_Pine3 16
+    100026: Tree_2D_Semirealistic_Pine3 17
+    100028: Tree_2D_Semirealistic_Pine3 18
+    100030: Tree_2D_Semirealistic_Pine3 19
+    100032: Tree_2D_Semirealistic_Pine3 2
+    100034: Tree_2D_Semirealistic_Pine3 20
+    100036: Tree_2D_Semirealistic_Pine3 21
+    100038: Tree_2D_Semirealistic_Pine3 22
+    100040: Tree_2D_Semirealistic_Pine3 23
+    100042: Tree_2D_Semirealistic_Pine3 24
+    100044: Tree_2D_Semirealistic_Pine3 25
+    100046: Tree_2D_Semirealistic_Pine3 26
+    100048: Tree_2D_Semirealistic_Pine3 27
+    100050: Tree_2D_Semirealistic_Pine3 28
+    100052: Tree_2D_Semirealistic_Pine3 3
+    100054: Tree_2D_Semirealistic_Pine3 4
+    100056: Tree_2D_Semirealistic_Pine3 5
+    100058: Tree_2D_Semirealistic_Pine3 6
+    100060: Tree_2D_Semirealistic_Pine3 7
+    100062: Tree_2D_Semirealistic_Pine3 8
+    100064: Tree_2D_Semirealistic_Pine3 9
+    400000: Google Earth Terrain
+    400002: //RootNode
+    400004: Statua1
+    400006: Statua2
+    400008: Tree_2D_Semirealistic_Pine3
+    400010: Tree_2D_Semirealistic_Pine3 1
+    400012: Tree_2D_Semirealistic_Pine3 10
+    400014: Tree_2D_Semirealistic_Pine3 11
+    400016: Tree_2D_Semirealistic_Pine3 12
+    400018: Tree_2D_Semirealistic_Pine3 13
+    400020: Tree_2D_Semirealistic_Pine3 14
+    400022: Tree_2D_Semirealistic_Pine3 15
+    400024: Tree_2D_Semirealistic_Pine3 16
+    400026: Tree_2D_Semirealistic_Pine3 17
+    400028: Tree_2D_Semirealistic_Pine3 18
+    400030: Tree_2D_Semirealistic_Pine3 19
+    400032: Tree_2D_Semirealistic_Pine3 2
+    400034: Tree_2D_Semirealistic_Pine3 20
+    400036: Tree_2D_Semirealistic_Pine3 21
+    400038: Tree_2D_Semirealistic_Pine3 22
+    400040: Tree_2D_Semirealistic_Pine3 23
+    400042: Tree_2D_Semirealistic_Pine3 24
+    400044: Tree_2D_Semirealistic_Pine3 25
+    400046: Tree_2D_Semirealistic_Pine3 26
+    400048: Tree_2D_Semirealistic_Pine3 27
+    400050: Tree_2D_Semirealistic_Pine3 28
+    400052: Tree_2D_Semirealistic_Pine3 3
+    400054: Tree_2D_Semirealistic_Pine3 4
+    400056: Tree_2D_Semirealistic_Pine3 5
+    400058: Tree_2D_Semirealistic_Pine3 6
+    400060: Tree_2D_Semirealistic_Pine3 7
+    400062: Tree_2D_Semirealistic_Pine3 8
+    400064: Tree_2D_Semirealistic_Pine3 9
+    2100000: _defaultMat
+    2100002: '[0011_Seashell]'
+    2100004: CentroFacciataAlta
+    2100006: FacciataCentrale
+    2100008: FacciataModulo
+    2100010: FacciataModuloBasso
+    2100012: CortileGrandeLatoCorto
+    2100014: CorileGrandeLatoLungo
+    2100016: SecondoCortileRaddrizzato
+    2100018: TotaleAerea
+    2100020: '[0012_Bisque]'
+    2100022: PrimaParteLaterale
+    2100024: Stone_Moss3
+    2100026: Stone_Gray
+    2100028: '[0036_BurlyWood]'
+    2100030: TextureFacciata
+    2100032: FacciataCappellaRaddrizzata copia
+    2100034: Laterale
+    2100036: tettilaterali
+    2100038: "FiancataLateraleRond\xF21"
+    2100040: SecondaParteLaterale
+    2100042: Stone_Marble_VermontDanby
+    2100044: Tetti
+    2100046: '[0133_Gray]'
+    2100048: FacciataPosteriore
+    2100050: Laterale6
+    2100052: "FiancataLateraleRond\xF2"
+    2100054: "FiancataLateraleRond\xF22"
+    2100056: '[Roofing_Tile_Spanish]'
+    2100058: giardinolaterale
+    2100060: giardinolaterale1
+    2100062: Google Earth Snapshot2
+    2100064: pine
+    2100066: _Charcoal_
+    2100068: StatuaSola
+    2100070: SecondaStatua
+    2300000: Google Earth Terrain
+    2300002: //RootNode
+    2300004: Statua1
+    2300006: Statua2
+    2300008: Tree_2D_Semirealistic_Pine3
+    2300010: Tree_2D_Semirealistic_Pine3 1
+    2300012: Tree_2D_Semirealistic_Pine3 10
+    2300014: Tree_2D_Semirealistic_Pine3 11
+    2300016: Tree_2D_Semirealistic_Pine3 12
+    2300018: Tree_2D_Semirealistic_Pine3 13
+    2300020: Tree_2D_Semirealistic_Pine3 14
+    2300022: Tree_2D_Semirealistic_Pine3 15
+    2300024: Tree_2D_Semirealistic_Pine3 16
+    2300026: Tree_2D_Semirealistic_Pine3 17
+    2300028: Tree_2D_Semirealistic_Pine3 18
+    2300030: Tree_2D_Semirealistic_Pine3 19
+    2300032: Tree_2D_Semirealistic_Pine3 2
+    2300034: Tree_2D_Semirealistic_Pine3 20
+    2300036: Tree_2D_Semirealistic_Pine3 21
+    2300038: Tree_2D_Semirealistic_Pine3 22
+    2300040: Tree_2D_Semirealistic_Pine3 23
+    2300042: Tree_2D_Semirealistic_Pine3 24
+    2300044: Tree_2D_Semirealistic_Pine3 25
+    2300046: Tree_2D_Semirealistic_Pine3 26
+    2300048: Tree_2D_Semirealistic_Pine3 27
+    2300050: Tree_2D_Semirealistic_Pine3 28
+    2300052: Tree_2D_Semirealistic_Pine3 3
+    2300054: Tree_2D_Semirealistic_Pine3 4
+    2300056: Tree_2D_Semirealistic_Pine3 5
+    2300058: Tree_2D_Semirealistic_Pine3 6
+    2300060: Tree_2D_Semirealistic_Pine3 7
+    2300062: Tree_2D_Semirealistic_Pine3 8
+    2300064: Tree_2D_Semirealistic_Pine3 9
+    3300000: Google Earth Terrain
+    3300002: //RootNode
+    3300004: Statua1
+    3300006: Statua2
+    3300008: Tree_2D_Semirealistic_Pine3
+    3300010: Tree_2D_Semirealistic_Pine3 1
+    3300012: Tree_2D_Semirealistic_Pine3 10
+    3300014: Tree_2D_Semirealistic_Pine3 11
+    3300016: Tree_2D_Semirealistic_Pine3 12
+    3300018: Tree_2D_Semirealistic_Pine3 13
+    3300020: Tree_2D_Semirealistic_Pine3 14
+    3300022: Tree_2D_Semirealistic_Pine3 15
+    3300024: Tree_2D_Semirealistic_Pine3 16
+    3300026: Tree_2D_Semirealistic_Pine3 17
+    3300028: Tree_2D_Semirealistic_Pine3 18
+    3300030: Tree_2D_Semirealistic_Pine3 19
+    3300032: Tree_2D_Semirealistic_Pine3 2
+    3300034: Tree_2D_Semirealistic_Pine3 20
+    3300036: Tree_2D_Semirealistic_Pine3 21
+    3300038: Tree_2D_Semirealistic_Pine3 22
+    3300040: Tree_2D_Semirealistic_Pine3 23
+    3300042: Tree_2D_Semirealistic_Pine3 24
+    3300044: Tree_2D_Semirealistic_Pine3 25
+    3300046: Tree_2D_Semirealistic_Pine3 26
+    3300048: Tree_2D_Semirealistic_Pine3 27
+    3300050: Tree_2D_Semirealistic_Pine3 28
+    3300052: Tree_2D_Semirealistic_Pine3 3
+    3300054: Tree_2D_Semirealistic_Pine3 4
+    3300056: Tree_2D_Semirealistic_Pine3 5
+    3300058: Tree_2D_Semirealistic_Pine3 6
+    3300060: Tree_2D_Semirealistic_Pine3 7
+    3300062: Tree_2D_Semirealistic_Pine3 8
+    3300064: Tree_2D_Semirealistic_Pine3 9
+    4300000: Mesh PoggioImperiale 1
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Tree_2D_Semirealistic_Pine3
+    4300006: Mesh Statua2
+    4300008: Mesh Statua1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

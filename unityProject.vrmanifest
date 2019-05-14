@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.asdasd.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\Utente\\Desktop\\Aaron e Audrey\\AARON\\VR\\asdasd\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "asdasd [Testing]"
+        }
+      }
+    }
+  ]
+}
