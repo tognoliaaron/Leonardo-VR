@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - CameraVR
+  - Macchina
+  - projectile
+  - FxTemporaire
   layers:
   - Default
   - TransparentFX

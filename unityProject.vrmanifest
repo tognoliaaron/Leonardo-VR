@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.asdasd.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "E:\\Utente\\Desktop\\Aaron e Audrey\\AARON\\VR\\asdasd\\actions.json",
+      "action_manifest_path": "E:\\Utente\\Desktop\\Aaron e Audrey\\AARON\\VR\\LeonardoFinal\\V2\\actions.json",
       "strings": {
         "en_us": {
           "name": "asdasd [Testing]"
