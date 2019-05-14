@@ -20,4 +20,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/controllo2.unity
     guid: e571e5df10c24b74fad9bd0f895fe9a3
+  - enabled: 1
+    path: Assets/Scenes/controllo3.unity
+    guid: 17936fc85e4faef40b5c0e550631e412
   m_configObjects: {}

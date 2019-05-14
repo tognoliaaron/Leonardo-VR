@@ -120,7 +120,8 @@ namespace Valve.VR.InteractionSystem.Sample
 
                 movementSpeed = baseMaxMovementSpeed * m.y * Time.deltaTime;
                 //oldRotation = transform.rotation;
-                macchina.transform.position += transform.forward * Time.deltaTime * movementSpeed;
+                if(movementSpeed>0)
+                    macchina.transform.position += transform.forward * Time.deltaTime * movementSpeed;
                 Debug.Log("ms: " + movementSpeed);
                 Debug.Log("joy: " + m.y);
 
