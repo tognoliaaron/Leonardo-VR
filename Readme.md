@@ -1,4 +1,4 @@
-## English
+## Italiano
 # Versione 3
 In questa versione è possibile fare tutto ciò che si poteva fare nella [versione precedente](https://github.com/tognoliaaron/Leonardo-VR/releases/tag/V2.0).
 Inoltre è presente una mappa del centro storico di firenze completamente visitabile.
