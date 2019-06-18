@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/controllo1.unity
+- path: Assets/Scenes/controllo3.unity
   isLoaded: 1
   isActive: 1
